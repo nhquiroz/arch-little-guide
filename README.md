@@ -22,8 +22,8 @@ I started using Arch recently and will update it as I learn, with info I find us
 
 **`yaourt <package>`** – *search and install `<package>`, with AUR support*  
 **`yaourt -R <package>`** – *uninstall `<package>`*  
-**`yaourt -Syu`** – *sync and upgrade installed packages, including AUR ones*  
-**`yaourt -Syuw`** – *sync and download only (no installing) including AUR*  
+**`yaourt -Syu`** – *sync and upgrade installed packages, including AUR packages*  
+**`yaourt -Syuw`** – *sync and download only (no installing), including AUR packages*  
 
 ### [**`dealing with conflicts`**](https://wiki.archlinux.org/index.php/System_maintenance)
 
