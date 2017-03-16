@@ -23,21 +23,21 @@
 
 ## Useful commands
 
-### [**`pacman`**](https://wiki.archlinux.org/index.php/pacman)
+### [pacman](https://wiki.archlinux.org/index.php/pacman)
 
 - **`sudo pacman -S <package>`** – *install `<package>` from Arch repo.*  
 - **`sudo pacman -R <package>`** – *uninstall `<package>`.*  
 - **`sudo pacman -Syu`** – *sync and upgrade installed packages.*  
 - **`sudo pacman -Syuw`** – *sync and download only (no installing).*  
 
-### [**`yaourt`**](https://archlinux.fr/yaourt-en)
+### [yaourt](https://archlinux.fr/yaourt-en)
 
 - **`yaourt <package>`** – *search and install `<package>`, with AUR support.*  
 - **`yaourt -R <package>`** – *uninstall `<package>`.*  
 - **`yaourt -Syu`** – *sync and upgrade installed packages, including AUR packages.*  
 - **`yaourt -Syuw`** – *sync and download only (no installing), including AUR packages.*  
 
-## System maintenance &#x2799; [**`wiki`**](https://wiki.archlinux.org/index.php/System_maintenance)
+## System maintenance [**`(wiki)`**](https://wiki.archlinux.org/index.php/System_maintenance)
 
 ### downgrades
 
