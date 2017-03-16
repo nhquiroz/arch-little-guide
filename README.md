@@ -37,9 +37,9 @@
 - **`yaourt -Syu`** – *sync and upgrade installed packages, including AUR packages.*  
 - **`yaourt -Syuw`** – *sync and download only (no installing), including AUR packages.*  
 
-## [**`System maintenance`**](https://wiki.archlinux.org/index.php/System_maintenance)
+## System maintenance &#x2799; [**`wiki`**](https://wiki.archlinux.org/index.php/System_maintenance)
 
-### **`downgrades`**
+### downgrades
 
 - Read about [**`downgrading packages`**](https://wiki.archlinux.org/index.php/downgrading_packages).  
 - **`downgrade <package>`** – *downgrade conflictive package.*
