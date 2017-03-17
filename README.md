@@ -1,8 +1,4 @@
-<h1 align="center">
-  <br>
-    :penguin: Arch Little Guide
-  <br>
-</h1>
+# :penguin: Arch Little Guide
 
 > Personal little [**`Arch Linux`**](https://www.archlinux.org/) guide.  
 
